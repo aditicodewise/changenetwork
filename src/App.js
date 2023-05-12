@@ -10,7 +10,7 @@ const networks = {
       symbol: "ETH",
       decimals: 18
     },
-    rpcUrls: ["https://mainnet.infura.io/v3/YOUR_INFURA_PROJECT_ID"],
+    rpcUrls: ["https://eth-mainnet.g.alchemy.com/v2/Wc4bagUOTC62nA5AP8675nyV8dF6Ax_J"],
     blockExplorerUrls: ["https://etherscan.io/"]
   },
   avax: {
